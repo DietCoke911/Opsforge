@@ -1,0 +1,14 @@
+[
+  {
+    "timestamp": "2026-06-27T03:42:36.411892+00:00",
+    "decision_id": "TEST-204236",
+    "event": "RECEIVED",
+    "details": "Type: GENERAL"
+  },
+  {
+    "timestamp": "2026-06-27T03:42:36.411991+00:00",
+    "decision_id": "TEST-204236",
+    "event": "ROUTED",
+    "details": "Path: Standard Processing, Status: Routed to General Handler"
+  }
+]

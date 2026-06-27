@@ -1,0 +1,122 @@
+[
+  {
+    "decision_id": "TEST-202203",
+    "project": "Meter School Deployment",
+    "context": "High dependency on external vendor",
+    "priority_score": 75,
+    "dependency_score": 68,
+    "severity_score": 72,
+    "actual_outcome": "Still Blocked",
+    "timestamp": "2026-06-25T03:22:03.064060+00:00"
+  },
+  {
+    "decision_id": "TEST-202203",
+    "project": "Meter School Deployment",
+    "context": "High dependency on external vendor",
+    "priority_score": 75,
+    "dependency_score": 68,
+    "severity_score": 72,
+    "actual_outcome": "Still Blocked",
+    "timestamp": "2026-06-25T03:22:03.064416+00:00"
+  },
+  {
+    "decision_id": "TEST-202203",
+    "project": "Meter School Deployment",
+    "context": "High dependency on external vendor",
+    "priority_score": 75,
+    "dependency_score": 68,
+    "severity_score": 72,
+    "actual_outcome": "Still Blocked",
+    "timestamp": "2026-06-25T03:22:03.064576+00:00"
+  },
+  {
+    "decision_id": "TEST-202552",
+    "project": "General Operations Project",
+    "context": "High dependency scenario",
+    "priority_score": 75,
+    "dependency_score": 68,
+    "severity_score": 72,
+    "actual_outcome": "Still Blocked",
+    "timestamp": "2026-06-25T03:25:52.551079+00:00"
+  },
+  {
+    "decision_id": "TEST-202552",
+    "project": "General Operations Project",
+    "context": "High dependency scenario",
+    "priority_score": 75,
+    "dependency_score": 68,
+    "severity_score": 72,
+    "actual_outcome": "Still Blocked",
+    "timestamp": "2026-06-25T03:25:52.551572+00:00"
+  },
+  {
+    "decision_id": "TEST-202552",
+    "project": "General Operations Project",
+    "context": "High dependency scenario",
+    "priority_score": 75,
+    "dependency_score": 68,
+    "severity_score": 72,
+    "actual_outcome": "Still Blocked",
+    "timestamp": "2026-06-25T03:25:52.551737+00:00"
+  },
+  {
+    "decision_id": "TEST-203446",
+    "project": "General Operations Project",
+    "context": "High dependency scenario",
+    "priority_score": 75,
+    "dependency_score": 68,
+    "severity_score": 72,
+    "actual_outcome": "Still Blocked",
+    "timestamp": "2026-06-25T03:34:46.578017+00:00"
+  },
+  {
+    "decision_id": "TEST-203446",
+    "project": "General Operations Project",
+    "context": "High dependency scenario",
+    "priority_score": 75,
+    "dependency_score": 68,
+    "severity_score": 72,
+    "actual_outcome": "Still Blocked",
+    "timestamp": "2026-06-25T03:34:46.578676+00:00"
+  },
+  {
+    "decision_id": "TEST-203446",
+    "project": "General Operations Project",
+    "context": "High dependency scenario",
+    "priority_score": 75,
+    "dependency_score": 68,
+    "severity_score": 72,
+    "actual_outcome": "Still Blocked",
+    "timestamp": "2026-06-25T03:34:46.578866+00:00"
+  },
+  {
+    "decision_id": "TEST-204146",
+    "project": "General Operations Project",
+    "context": "High dependency scenario",
+    "priority_score": 75,
+    "dependency_score": 68,
+    "severity_score": 72,
+    "actual_outcome": "Still Blocked",
+    "timestamp": "2026-06-25T03:41:46.201487+00:00"
+  },
+  {
+    "decision_id": "TEST-204146",
+    "project": "General Operations Project",
+    "context": "High dependency scenario",
+    "priority_score": 75,
+    "dependency_score": 68,
+    "severity_score": 72,
+    "actual_outcome": "Still Blocked",
+    "timestamp": "2026-06-25T03:41:46.201976+00:00"
+  },
+  {
+    "decision_id": "TEST-204236",
+    "project": "General Operations Project",
+    "context": "High dependency scenario",
+    "priority_score": 75,
+    "dependency_score": 68,
+    "severity_score": 72,
+    "actual_outcome": "Still Blocked",
+    "timestamp": "2026-06-27T03:42:36.411238+00:00"
+  }
+]

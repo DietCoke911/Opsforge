@@ -1,0 +1,25 @@
+import streamlit as st
+from datetime import datetime
+import json
+import pandas as pd
+import matplotlib.pyplot as plt
+
+# Core imports
+from decision_records.decision_record import load_decisions, learn_from_outcomes
+st.subheader("🔁 Learning Loop & Approval")
+
+decisions = load_decisions()
+if decisions:
+    learning = learn_from_outcomes()
+    st.json(learning)
+    
+    if "recommendation" in learning and "Increase w1" in learning.get("recommendation", ""):
+        if st.button("✅ Approve & Apply w1 Increase"):
+            new_w1 = 31
+            st.success(f"w1 updated to {new_w1}")
+            # Simple audit log
+            with open("logs/audit.log", "a") as f:
+                f.write(f"{datetime.now()} | Approved w1 increase | New w1: {new_w1}\n")
+else:
+    st.info("Run test cycles first to generate data")
+
