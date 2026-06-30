@@ -1,0 +1,201 @@
+project_id,operation_type,actual_outcome,priority_score_truth,external_risk_score,severity_score,created_date
+PROJ_00000,Network Cutover,Still Blocked,34,91,4,2026-01-01
+PROJ_00001,School Deployment,Still Blocked,41,89,5,2026-01-02
+PROJ_00002,Network Cutover,Still Blocked,45,86,4,2026-01-03
+PROJ_00003,Network Cutover,Still Blocked,55,76,7,2026-01-04
+PROJ_00004,School Deployment,Monitor,55,94,7,2026-01-05
+PROJ_00005,School Deployment,Monitor,77,82,8,2026-01-06
+PROJ_00006,Network Cutover,Still Blocked,50,73,5,2026-01-07
+PROJ_00007,Field Install,Escalated,68,73,8,2026-01-08
+PROJ_00008,Network Cutover,Still Blocked,65,75,5,2026-01-09
+PROJ_00009,Network Cutover,Escalated,62,88,8,2026-01-10
+PROJ_00010,Network Cutover,Still Blocked,59,81,6,2026-01-11
+PROJ_00011,Network Cutover,Still Blocked,66,91,6,2026-01-12
+PROJ_00012,School Deployment,Still Blocked,52,76,6,2026-01-13
+PROJ_00013,Network Cutover,Monitor,87,79,6,2026-01-14
+PROJ_00014,Field Install,Monitor,39,88,4,2026-01-15
+PROJ_00015,School Deployment,Still Blocked,83,76,6,2026-01-16
+PROJ_00016,Field Install,Still Blocked,34,72,7,2026-01-17
+PROJ_00017,Field Install,Still Blocked,65,82,7,2026-01-18
+PROJ_00018,Field Install,Still Blocked,63,82,4,2026-01-19
+PROJ_00019,Field Install,Still Blocked,81,87,6,2026-01-20
+PROJ_00020,School Deployment,Still Blocked,60,89,6,2026-01-21
+PROJ_00021,School Deployment,Still Blocked,39,77,6,2026-01-22
+PROJ_00022,Field Install,Resolved,87,78,8,2026-01-23
+PROJ_00023,Field Install,Still Blocked,48,76,5,2026-01-24
+PROJ_00024,School Deployment,Escalated,87,70,8,2026-01-25
+PROJ_00025,School Deployment,Still Blocked,61,72,5,2026-01-26
+PROJ_00026,School Deployment,Resolved,30,82,6,2026-01-27
+PROJ_00027,Network Cutover,Monitor,85,94,6,2026-01-28
+PROJ_00028,Network Cutover,Still Blocked,34,86,8,2026-01-29
+PROJ_00029,Network Cutover,Still Blocked,74,94,8,2026-01-30
+PROJ_00030,Field Install,Monitor,33,93,5,2026-01-31
+PROJ_00031,Network Cutover,Resolved,45,70,7,2026-02-01
+PROJ_00032,Field Install,Still Blocked,53,75,5,2026-02-02
+PROJ_00033,Field Install,Still Blocked,45,90,8,2026-02-03
+PROJ_00034,Network Cutover,Monitor,84,75,8,2026-02-04
+PROJ_00035,Field Install,Resolved,31,81,4,2026-02-05
+PROJ_00036,Network Cutover,Still Blocked,78,82,8,2026-02-06
+PROJ_00037,Network Cutover,Still Blocked,57,82,4,2026-02-07
+PROJ_00038,School Deployment,Escalated,61,84,7,2026-02-08
+PROJ_00039,Network Cutover,Still Blocked,56,90,5,2026-02-09
+PROJ_00040,School Deployment,Still Blocked,49,85,5,2026-02-10
+PROJ_00041,Network Cutover,Resolved,53,91,4,2026-02-11
+PROJ_00042,Network Cutover,Monitor,41,90,5,2026-02-12
+PROJ_00043,School Deployment,Monitor,79,80,8,2026-02-13
+PROJ_00044,School Deployment,Still Blocked,64,74,6,2026-02-14
+PROJ_00045,Network Cutover,Still Blocked,89,73,4,2026-02-15
+PROJ_00046,Field Install,Monitor,62,72,5,2026-02-16
+PROJ_00047,School Deployment,Still Blocked,62,88,4,2026-02-17
+PROJ_00048,Field Install,Still Blocked,80,89,4,2026-02-18
+PROJ_00049,Field Install,Escalated,72,94,6,2026-02-19
+PROJ_00050,Field Install,Still Blocked,66,87,8,2026-02-20
+PROJ_00051,School Deployment,Still Blocked,41,84,4,2026-02-21
+PROJ_00052,Field Install,Escalated,32,78,5,2026-02-22
+PROJ_00053,School Deployment,Escalated,30,86,7,2026-02-23
+PROJ_00054,Field Install,Still Blocked,62,83,4,2026-02-24
+PROJ_00055,Network Cutover,Resolved,69,84,4,2026-02-25
+PROJ_00056,Network Cutover,Still Blocked,39,70,6,2026-02-26
+PROJ_00057,School Deployment,Still Blocked,72,90,8,2026-02-27
+PROJ_00058,Network Cutover,Monitor,73,91,7,2026-02-28
+PROJ_00059,Network Cutover,Resolved,58,91,5,2026-03-01
+PROJ_00060,Field Install,Resolved,42,72,7,2026-03-02
+PROJ_00061,School Deployment,Still Blocked,41,85,5,2026-03-03
+PROJ_00062,Field Install,Resolved,60,92,8,2026-03-04
+PROJ_00063,Field Install,Resolved,75,94,5,2026-03-05
+PROJ_00064,Field Install,Escalated,31,80,6,2026-03-06
+PROJ_00065,Field Install,Monitor,80,81,6,2026-03-07
+PROJ_00066,Field Install,Monitor,79,79,6,2026-03-08
+PROJ_00067,Field Install,Still Blocked,64,85,6,2026-03-09
+PROJ_00068,Field Install,Still Blocked,52,77,7,2026-03-10
+PROJ_00069,School Deployment,Escalated,46,75,8,2026-03-11
+PROJ_00070,Network Cutover,Escalated,55,81,5,2026-03-12
+PROJ_00071,Field Install,Still Blocked,37,93,5,2026-03-13
+PROJ_00072,Field Install,Still Blocked,58,90,6,2026-03-14
+PROJ_00073,Field Install,Still Blocked,55,77,6,2026-03-15
+PROJ_00074,Field Install,Still Blocked,39,73,4,2026-03-16
+PROJ_00075,Field Install,Escalated,55,77,8,2026-03-17
+PROJ_00076,Field Install,Still Blocked,63,87,7,2026-03-18
+PROJ_00077,Network Cutover,Still Blocked,80,74,5,2026-03-19
+PROJ_00078,Network Cutover,Still Blocked,70,78,4,2026-03-20
+PROJ_00079,Field Install,Still Blocked,36,73,4,2026-03-21
+PROJ_00080,Network Cutover,Still Blocked,33,91,5,2026-03-22
+PROJ_00081,School Deployment,Monitor,87,86,7,2026-03-23
+PROJ_00082,Field Install,Monitor,82,78,4,2026-03-24
+PROJ_00083,School Deployment,Still Blocked,79,70,4,2026-03-25
+PROJ_00084,School Deployment,Still Blocked,74,90,8,2026-03-26
+PROJ_00085,Field Install,Still Blocked,40,89,7,2026-03-27
+PROJ_00086,Network Cutover,Monitor,58,82,4,2026-03-28
+PROJ_00087,School Deployment,Still Blocked,85,85,7,2026-03-29
+PROJ_00088,Field Install,Still Blocked,65,82,5,2026-03-30
+PROJ_00089,School Deployment,Escalated,54,83,6,2026-03-31
+PROJ_00090,School Deployment,Still Blocked,50,72,4,2026-04-01
+PROJ_00091,School Deployment,Escalated,86,75,8,2026-04-02
+PROJ_00092,School Deployment,Still Blocked,65,87,5,2026-04-03
+PROJ_00093,Network Cutover,Still Blocked,39,88,7,2026-04-04
+PROJ_00094,School Deployment,Monitor,66,74,5,2026-04-05
+PROJ_00095,School Deployment,Monitor,38,84,4,2026-04-06
+PROJ_00096,School Deployment,Resolved,53,94,7,2026-04-07
+PROJ_00097,Network Cutover,Still Blocked,64,71,6,2026-04-08
+PROJ_00098,School Deployment,Still Blocked,78,79,5,2026-04-09
+PROJ_00099,School Deployment,Still Blocked,64,93,4,2026-04-10
+PROJ_00100,Network Cutover,Monitor,77,87,8,2026-04-11
+PROJ_00101,Network Cutover,Still Blocked,65,82,7,2026-04-12
+PROJ_00102,Network Cutover,Escalated,47,74,5,2026-04-13
+PROJ_00103,School Deployment,Still Blocked,78,92,5,2026-04-14
+PROJ_00104,Network Cutover,Still Blocked,68,93,6,2026-04-15
+PROJ_00105,Network Cutover,Resolved,61,70,6,2026-04-16
+PROJ_00106,School Deployment,Monitor,53,91,8,2026-04-17
+PROJ_00107,Network Cutover,Escalated,52,70,8,2026-04-18
+PROJ_00108,School Deployment,Still Blocked,61,87,4,2026-04-19
+PROJ_00109,Field Install,Still Blocked,66,84,4,2026-04-20
+PROJ_00110,Network Cutover,Still Blocked,41,86,8,2026-04-21
+PROJ_00111,Field Install,Escalated,78,80,8,2026-04-22
+PROJ_00112,School Deployment,Still Blocked,84,90,7,2026-04-23
+PROJ_00113,Network Cutover,Still Blocked,42,94,6,2026-04-24
+PROJ_00114,School Deployment,Still Blocked,52,91,4,2026-04-25
+PROJ_00115,Field Install,Still Blocked,54,86,6,2026-04-26
+PROJ_00116,School Deployment,Still Blocked,64,82,6,2026-04-27
+PROJ_00117,Network Cutover,Still Blocked,70,70,8,2026-04-28
+PROJ_00118,Network Cutover,Still Blocked,59,71,7,2026-04-29
+PROJ_00119,Field Install,Resolved,46,78,5,2026-04-30
+PROJ_00120,School Deployment,Escalated,78,72,7,2026-05-01
+PROJ_00121,Network Cutover,Still Blocked,49,70,7,2026-05-02
+PROJ_00122,Field Install,Still Blocked,77,90,6,2026-05-03
+PROJ_00123,Network Cutover,Monitor,54,85,7,2026-05-04
+PROJ_00124,Network Cutover,Still Blocked,51,92,4,2026-05-05
+PROJ_00125,School Deployment,Still Blocked,42,75,6,2026-05-06
+PROJ_00126,Network Cutover,Still Blocked,88,86,4,2026-05-07
+PROJ_00127,School Deployment,Still Blocked,48,74,5,2026-05-08
+PROJ_00128,Network Cutover,Resolved,78,74,6,2026-05-09
+PROJ_00129,Field Install,Still Blocked,65,75,5,2026-05-10
+PROJ_00130,Network Cutover,Monitor,41,72,6,2026-05-11
+PROJ_00131,School Deployment,Still Blocked,70,90,8,2026-05-12
+PROJ_00132,School Deployment,Still Blocked,48,92,7,2026-05-13
+PROJ_00133,Field Install,Still Blocked,41,74,8,2026-05-14
+PROJ_00134,Network Cutover,Still Blocked,38,90,5,2026-05-15
+PROJ_00135,Network Cutover,Monitor,36,74,7,2026-05-16
+PROJ_00136,Field Install,Still Blocked,57,79,6,2026-05-17
+PROJ_00137,Network Cutover,Still Blocked,43,79,7,2026-05-18
+PROJ_00138,Network Cutover,Monitor,60,88,4,2026-05-19
+PROJ_00139,School Deployment,Still Blocked,81,86,7,2026-05-20
+PROJ_00140,Network Cutover,Still Blocked,48,90,4,2026-05-21
+PROJ_00141,Network Cutover,Still Blocked,87,83,7,2026-05-22
+PROJ_00142,Field Install,Still Blocked,76,78,4,2026-05-23
+PROJ_00143,Field Install,Resolved,45,83,5,2026-05-24
+PROJ_00144,School Deployment,Still Blocked,82,70,8,2026-05-25
+PROJ_00145,Network Cutover,Still Blocked,34,88,6,2026-05-26
+PROJ_00146,Network Cutover,Still Blocked,64,82,7,2026-05-27
+PROJ_00147,Network Cutover,Monitor,41,82,8,2026-05-28
+PROJ_00148,School Deployment,Still Blocked,54,73,6,2026-05-29
+PROJ_00149,School Deployment,Still Blocked,81,70,6,2026-05-30
+PROJ_00150,Field Install,Escalated,88,86,4,2026-05-31
+PROJ_00151,School Deployment,Resolved,50,77,5,2026-06-01
+PROJ_00152,Network Cutover,Resolved,65,71,5,2026-06-02
+PROJ_00153,Network Cutover,Still Blocked,82,77,8,2026-06-03
+PROJ_00154,School Deployment,Still Blocked,52,76,5,2026-06-04
+PROJ_00155,Network Cutover,Still Blocked,45,71,7,2026-06-05
+PROJ_00156,Network Cutover,Still Blocked,86,91,5,2026-06-06
+PROJ_00157,School Deployment,Still Blocked,68,91,8,2026-06-07
+PROJ_00158,School Deployment,Resolved,74,72,5,2026-06-08
+PROJ_00159,Network Cutover,Still Blocked,82,87,7,2026-06-09
+PROJ_00160,Network Cutover,Escalated,71,81,4,2026-06-10
+PROJ_00161,Network Cutover,Still Blocked,87,70,8,2026-06-11
+PROJ_00162,Field Install,Resolved,68,91,4,2026-06-12
+PROJ_00163,Field Install,Still Blocked,43,81,4,2026-06-13
+PROJ_00164,Field Install,Still Blocked,60,74,4,2026-06-14
+PROJ_00165,School Deployment,Monitor,87,94,6,2026-06-15
+PROJ_00166,Field Install,Still Blocked,34,86,6,2026-06-16
+PROJ_00167,School Deployment,Still Blocked,64,85,4,2026-06-17
+PROJ_00168,School Deployment,Escalated,52,84,8,2026-06-18
+PROJ_00169,Field Install,Monitor,58,92,7,2026-06-19
+PROJ_00170,Field Install,Still Blocked,72,84,7,2026-06-20
+PROJ_00171,Field Install,Still Blocked,40,74,5,2026-06-21
+PROJ_00172,Network Cutover,Still Blocked,47,90,8,2026-06-22
+PROJ_00173,Field Install,Monitor,76,83,6,2026-06-23
+PROJ_00174,Network Cutover,Still Blocked,41,71,4,2026-06-24
+PROJ_00175,School Deployment,Still Blocked,38,80,5,2026-06-25
+PROJ_00176,Network Cutover,Still Blocked,39,88,7,2026-06-26
+PROJ_00177,Field Install,Still Blocked,87,76,6,2026-06-27
+PROJ_00178,School Deployment,Monitor,73,75,6,2026-06-28
+PROJ_00179,School Deployment,Still Blocked,46,71,4,2026-06-29
+PROJ_00180,School Deployment,Escalated,67,75,7,2026-06-30
+PROJ_00181,Network Cutover,Still Blocked,36,87,8,2026-07-01
+PROJ_00182,Field Install,Still Blocked,75,71,6,2026-07-02
+PROJ_00183,School Deployment,Still Blocked,42,87,4,2026-07-03
+PROJ_00184,School Deployment,Still Blocked,69,84,8,2026-07-04
+PROJ_00185,School Deployment,Escalated,71,88,7,2026-07-05
+PROJ_00186,Network Cutover,Monitor,38,71,6,2026-07-06
+PROJ_00187,Network Cutover,Still Blocked,79,89,8,2026-07-07
+PROJ_00188,Field Install,Monitor,56,94,8,2026-07-08
+PROJ_00189,Network Cutover,Still Blocked,87,75,8,2026-07-09
+PROJ_00190,School Deployment,Monitor,31,70,6,2026-07-10
+PROJ_00191,Field Install,Still Blocked,34,93,6,2026-07-11
+PROJ_00192,School Deployment,Still Blocked,58,84,5,2026-07-12
+PROJ_00193,School Deployment,Still Blocked,66,92,7,2026-07-13
+PROJ_00194,Network Cutover,Still Blocked,67,79,4,2026-07-14
+PROJ_00195,Field Install,Still Blocked,48,88,8,2026-07-15
+PROJ_00196,Network Cutover,Still Blocked,37,86,5,2026-07-16
+PROJ_00197,Network Cutover,Still Blocked,77,74,4,2026-07-17
+PROJ_00198,Field Install,Still Blocked,74,73,5,2026-07-18
+PROJ_00199,School Deployment,Escalated,30,79,6,2026-07-19
